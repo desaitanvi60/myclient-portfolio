@@ -1,4 +1,4 @@
-# myclient-portfolio
+
 
 **1. Set Up AWS S3 Bucket**
 Create S3 Bucket: In AWS S3, create a new bucket with a unique name.
